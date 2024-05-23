@@ -1,5 +1,7 @@
 ## Typescript Express Start Project
 
+Inspired from - https://blog.logrocket.com/how-to-set-up-node-typescript-express/
+
 To run locally:
 
 1. Install :: `npm install`
